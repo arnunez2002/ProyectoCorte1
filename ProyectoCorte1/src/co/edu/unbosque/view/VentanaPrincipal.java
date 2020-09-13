@@ -10,7 +10,7 @@ public class VentanaPrincipal extends JFrame  {
 	public PanelPrincipal panelPrincipal;
 	public VentanaPrincipal() {
 		
-		setTitle("Principal");
+		setTitle("Ventana Principal");
 		this.setSize(350, 200);
 		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		this.setResizable(false);
